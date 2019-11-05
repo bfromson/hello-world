@@ -1,4 +1,4 @@
 # hello-world
 very boring, got to start somewhere
 
-this si a github test
+this is a github test
